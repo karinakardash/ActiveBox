@@ -1,5 +1,5 @@
-const swiper = new Swiper('.swiper', {
-  initialSlide:2,
+const swiperSlider = new Swiper('.swiper', {
+  initialSlide: 2,
 
   pagination: {
     el: '.swiper-pagination',

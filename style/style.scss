@@ -70,7 +70,7 @@ body.-lock{
     position: fixed;
     width: 100%;
     z-index: 20;
-    background-color: transparent;
+    background-color: $colorBgFooterDark;
     padding: 0 20px;
 
     .container{
